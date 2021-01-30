@@ -1,0 +1,2 @@
+# jstraining
+JavaScript learning resources
